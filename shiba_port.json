@@ -179,7 +179,7 @@
     },
     "xiaofeng860": {
         "url": "https://www.90jili.com/index?affiliateCode=haha11",
-         "isToPage": true,
+         "isToPage": false,
         "isAlert": false,
         "countryCodes": ["TR","PH","BR","HK"],
         "adjustParams": [
@@ -216,7 +216,7 @@
     },
     "xiaofeng876": {
         "url": "https://www.49jili.com/?pid=pagcor777",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["TR","PH","BR","HK"],
         "adjustParams": [
@@ -252,7 +252,7 @@
     },
     "xiaofeng877": {
         "url": "https://www.bwinone8.com/?pid=pogo0121",
-         "isToPage": true,
+         "isToPage": false,
         "isAlert": false,
         "countryCodes": ["TR","PH","BR","HK"],
         "adjustParams": [
@@ -288,7 +288,7 @@
     },
     "xiaofeng878": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["TR","PH","BR","HK"],
         "adjustParams": [
@@ -324,7 +324,7 @@
     },
     "xiaofeng879": {
         "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": true,
+        "isToPage": false,
         "isAlert": false,
         "countryCodes": ["TR","PH","BR","HK"],
         "adjustParams": [
