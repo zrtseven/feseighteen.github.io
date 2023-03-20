@@ -72,9 +72,10 @@
         ]
     },
     "xiaofeng856": {
-        "url": "https://www.bwinone8.com/?pid=pogo0121",
-        "isToPage": false,
+        "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
         "isAlert": false,
+        "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -107,9 +108,10 @@
         ]
     },
     "xiaofeng857": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
-        "isAlert": true,
+         "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
+        "isAlert": false,
+          "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -142,10 +144,10 @@
         ]
     },
     "xiaofeng859": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+          "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["TR","PH","BR"],
+          "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -178,10 +180,10 @@
         ]
     },
     "xiaofeng860": {
-        "url": "https://www.90jili.com/index?affiliateCode=haha11",
-         "isToPage": false,
+         "url": "https://www.49jili.com/?pid=pagcor777",
+         "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["TR","PH","BR","HK"],
+          "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -251,10 +253,10 @@
         ]
     },
     "xiaofeng877": {
-        "url": "https://www.bwinone8.com/?pid=pogo0121",
-         "isToPage": false,
+      "url": "https://www.49jili.com/?pid=pagcor777",
+         "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["TR","PH","BR","HK"],
+        "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
@@ -323,10 +325,10 @@
         ]
     },
     "xiaofeng879": {
-        "url": "https://www.jiliasia.com/?pid=50jilivip",
-        "isToPage": false,
+         "url": "https://www.49jili.com/?pid=pagcor777",
+        "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["TR","PH","BR","HK"],
+        "countryCodes": ["PH","LA"],
         "adjustParams": [
             {
                 "name": "deposit-success",
