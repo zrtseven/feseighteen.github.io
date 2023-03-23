@@ -292,7 +292,7 @@
         "url": "https://49bet.com/affiliates/?btag=1110154",
         "isToPage": true,
         "isAlert": false,
-        "countryCodes": ["TR","PH","BR","HK"],
+        "countryCodes": ["TR","PH","LA","HK"],
         "adjustParams": [
             {
                 "name": "deposit-success",
