@@ -73,7 +73,7 @@
     },
     "xiaofeng856": {
         "url": "https://www.jilievo.ph/index?affiliateCode=www044",
-        "isToPage": false,
+        "isToPage": true,
         "isAlert": false,
         "countryCodes": ["PH","LA"],
         "adjustParams": [
